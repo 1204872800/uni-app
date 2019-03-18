@@ -1,0 +1,1 @@
+<import src="/components/my-Collection/find.vue.wxml" /><template name="5c385694"><view class="_view 5c385694 content"><view class="_view 5c385694"><text class="_text 5c385694 title">{{title}}</text></view><template data="{{...$root['0'], ...$root[$kk+'5c385694-0'],$root}}" is="c4c621e4"></template></view></template>

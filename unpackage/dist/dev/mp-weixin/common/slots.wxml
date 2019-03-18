@@ -1,0 +1,7 @@
+<import src="/components/uni-card/uni-card.vue.wxml" />
+<import src="/components/my-Collection/find.vue.wxml" />
+
+<template name="data-v-fbb367a0-default-9752f820-0"><image class="_image data-v-fbb367a0 img" mode="scaleToFill" src="../../static/Commoditclassification/cla_banner@3x.png"></image></template>
+
+<template name="data-v-fbb367a0-default-9752f820-1"><image class="_image data-v-fbb367a0 img" mode="scaleToFill" src="../../static/Commoditclassification/cla_banner@3x.png"></image></template>
+

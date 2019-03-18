@@ -1,0 +1,107 @@
+{
+	"pages": [
+		//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index"
+
+		},
+		{
+			"path": "pages/classification/classification"
+		},
+		{
+			"path": "pages/ShoppingCart/ShoppingCart"
+		},
+		{
+			"path": "pages/my/my"
+		},
+		{
+			"path": "pages/find/find"
+		},
+		{
+			"path": "pages/my/my-my/feedback/feedback"
+		},
+		{
+			"path": "pages/my/my-my/SetUp/SetUp"
+		},
+		{
+			"path": "pages/my/my-my/Address/Address"
+		},
+		{
+			"path": "pages/my/my-my/addAddress/addAddress"
+		},
+		{
+			"path": "pages/my/my-my/ModifyAddress/ModifyAddress"
+		},
+		{
+			"path": "pages/my/my-my/ModifyNumber/ModifyNumber"
+		},
+		{
+			"path": "pages/my/my-my/AboutUs/AboutUs"
+		},
+		{
+			"path": "pages/my/my-my/ModifyingData/ModifyingData"
+		},
+		{
+			"path": "pages/my/my-my/language/language"
+		},
+		{
+			"path": "pages/my/my-my/Collection/Collection"
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle": "custom"
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "red",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabar/tab_home@2x.png",
+				"selectedIconPath": "static/tabar/tab_home_s@2x.png",
+				"text": "主页"
+			},
+			{
+				"pagePath": "pages/classification/classification",
+				"iconPath": "static/tabar/tab_classify@2x.png",
+				"selectedIconPath": "static/tabar/tab_classify_s@2x.png",
+				"text": "分类"
+			},
+
+			//  #ifdef  MP-WEIXIN 
+			{
+				"pagePath": "pages/find/find",
+				"iconPath": "static/tabar/tab_find@3x.png",
+				"selectedIconPath": "static/tabar/tab_find@3x.png",
+				"text": "  "
+			},
+			//  #endif
+
+			//  #ifdef  H5 
+			{
+				"pagePath": "pages/find/find",
+				"iconPath": "",
+				"selectedIconPath": "",
+				"text": "  "
+			},
+			//  #endif
+			{
+				"pagePath": "pages/ShoppingCart/ShoppingCart",
+				"iconPath": "static/tabar/tab_shoppingcart@2x.png",
+				"selectedIconPath": "static/tabar/tab_shoppingcart_s@2x.png",
+				"text": "购物车"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"iconPath": "static/tabar/tab_me@2x.png",
+				"selectedIconPath": "static/tabar/tab_me_s@2x.png",
+				"text": "我的"
+			}
+		]
+	}
+}

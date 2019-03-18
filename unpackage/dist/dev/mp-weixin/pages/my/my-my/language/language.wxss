@@ -1,0 +1,54 @@
+
+.xia.data-v-10fc4099 {
+     display: -webkit-box;
+     display: -webkit-flex;
+     display: -ms-flexbox;
+     display: flex;
+     -webkit-box-orient: vertical;
+     -webkit-box-direction: normal;
+     -webkit-flex-direction: column;
+         -ms-flex-direction: column;
+             flex-direction: column;
+     background-color: white;
+}
+.zd.data-v-10fc4099 {
+     -webkit-box-flex: 1;
+     -webkit-flex: 1;
+         -ms-flex: 1;
+             flex: 1;
+     display: -webkit-box;
+     display: -webkit-flex;
+     display: -ms-flexbox;
+     display: flex;
+     -webkit-box-pack: justify;
+     -webkit-justify-content: space-between;
+         -ms-flex-pack: justify;
+             justify-content: space-between;
+     -webkit-box-align: center;
+     -webkit-align-items: center;
+         -ms-flex-align: center;
+             align-items: center;
+     padding: 0 10px 0 15px;
+     border-bottom: 1px solid #E7E7E7;
+  
+     height: 40px;
+}
+.xx.data-v-10fc4099 {
+   	margin-top: 20px;
+   	    padding:20px 45px 0 45px;
+}
+uni-button[type=primary].data-v-10fc4099 {
+   	background-color: #F7B90E !important;
+}
+.content.data-v-10fc4099 {
+
+  height: 100vh;
+
+
+  width: 100%;
+  background-color: #F3F3F3;
+}
+.content uni-checkbox .uni-checkbox-input.data-v-10fc4099 {
+  border: none !important;
+}
+

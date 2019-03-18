@@ -1,0 +1,1 @@
+<template name="c4c621e4"><view class="_view data-v-732e1b64 content"><image class="_image data-v-732e1b64 img" style="width:50px;height:50px;" mode="aspectFill" src="/static/tabar/tab_find@2x.png" bindtap="handleProxy" data-eventid="{{'c4c621e4-0'}}" data-comkey="{{$k}}"></image></view></template>

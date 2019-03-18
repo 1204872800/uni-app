@@ -1,0 +1,1 @@
+<import src="/components/my-Collection/find.vue.wxml" /><template name="6250e650"><view class="_view 6250e650"><view class="_view 6250e650 content">分类哒哒哒</view><template data="{{...$root['0'], ...$root[$kk+'6250e650-0'],$root}}" is="c4c621e4"></template></view></template>

@@ -1,0 +1,17 @@
+
+.clearfix:before,
+.clearfix:after {
+	content: ' ';
+	display: table;
+}
+.clearfix:after {
+	clear: both;
+}
+._input {
+	outline: none;
+}
+._ol,
+._ul {
+	list-style: none;
+}
+

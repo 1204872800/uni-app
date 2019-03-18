@@ -1,0 +1,24 @@
+   .xia {
+     display: flex;
+     flex-direction: column;
+     background-color: white;
+   }
+
+   .zd {
+     flex: 1;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 0 10px 0 15px;
+     border-bottom: 1px solid #E7E7E7;
+  
+     height: 40px;
+   }
+   	.xx {
+   	margin-top: 20px;
+   	    padding:20px 45px 0 45px;
+   }
+   
+   uni-button[type=primary] {
+   	background-color: #F7B90E !important;
+   }
